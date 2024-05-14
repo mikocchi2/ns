@@ -3,7 +3,7 @@ import json
 
 
 client = OpenAI(
-  api_key = 'sk-proj-vwLdoSbknx6deVWJ53e4T3BlbkFJbE7GObyEj4AHJNoqpKgM'
+  api_key = 'KEY HERE'
 )
 
 def process_mail_gpt(txt):
